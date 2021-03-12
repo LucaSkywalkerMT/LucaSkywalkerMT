@@ -37,4 +37,5 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 - STM32
 - RaspberryPi
 - Cortex M4
+- nRF
 - AtMega
