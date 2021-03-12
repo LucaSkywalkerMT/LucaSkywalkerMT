@@ -9,14 +9,17 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 - 📧 lucaruggier111@gmail.com
 
 📚 Education
-- University of Malta — Computer Engineering [September 2019 - Present]
-- University of Malta — Electrical Engineering [September 2018 - July 2019]
-- University of Malta — Science and ICT Foundation Year [September 2017 - July 2018]
-- St. Henry’s Marist College, South Africa — Matriculation [January 2012 - December 2016]
+- University of Malta — Computer Engineering [Sep 2019 - Present]
+- University of Malta — Electrical Engineering [Sep 2018 - Jul 2019]
+- University of Malta — Science and ICT Foundation Year [Sep 2017 - Jul 2018]
+- St. Henry’s Marist College, South Africa — Matriculation [Jan 2012 - Dec 2016]
 
 🔨 Skills
-- Programming Microcontrollers / FPGA
-- 
+- Programming microcontrollers / FPGA
+- Interfacing wireless communcations (WiFi, BT / BLE, RF)
+- Battery operation and optimization
+- Using / repairing 3D printers
+- Extensive Linux knowledge
 
 ⌨ Programming Languages
 - VHDL
