@@ -33,7 +33,7 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 ### ⚡ Boards I have worked with
 - Espressif
 - Spartan-3E
-- STM
+- STM32
 - RaspberryPi
 - Cortex M4
 - AtMega
