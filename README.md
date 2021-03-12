@@ -11,7 +11,7 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 - 📧 lucaruggier111@gmail.com
 
 ### 📚 Education
-- University of Malta — Computer Engineering [Sep 2019 - Present]
+- 🇲🇹 University of Malta — Computer Engineering [Sep 2019 - Present]
 - University of Malta — Electrical Engineering [Sep 2018 - Jul 2019]
 - University of Malta — Science and ICT Foundation Year [Sep 2017 - Jul 2018]
 - St. Henry’s Marist College, South Africa — Matriculation [Jan 2012 - Dec 2016]
