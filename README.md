@@ -20,6 +20,7 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 - Battery operation and optimization
 - Using / repairing 3D printers
 - Extensive Linux knowledge
+- Capable of learning unguided
 
 ⌨ Programming Languages
 - VHDL
