@@ -1,3 +1,5 @@
+# Who is Luca Ruggier?
+
 I am Luca Ruggier,
 I am a 23 year old university student studying Computer Engineering at the University of Malta. I was born in South Africa and moved to Malta in 2017 and began studying. 
 I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT / BLE, RF, IR etc on chips such as ESP32 / ESP8266.
