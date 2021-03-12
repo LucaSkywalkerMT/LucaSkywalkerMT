@@ -7,8 +7,9 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 ### ℹ Information
 - 🧬 Male
 - 📅 25/03/1998
-- 📞 +356 9966 9607
+- 📞 +356 99669607
 - 📧 lucaruggier111@gmail.com
+- 📱 LucaSkywalker#4894
 
 ### 📚 Education
 - University of Malta — Computer Engineering [Sep 2019 - Present]
