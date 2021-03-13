@@ -38,4 +38,4 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 - Raspberry Pi
 - Cortex-M4
 - nRF
-- AtMega
+- ATmega
