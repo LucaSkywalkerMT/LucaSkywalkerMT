@@ -5,7 +5,6 @@ I am a 23 year old university student studying Computer Engineering at the Unive
 I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT / BLE, RF, IR etc on chips such as ESP32 / ESP8266.
 
 ### ℹ Information
-- 🧬 Male
 - 📅 25/03/1998
 - 📞 +356 99669607
 - 📧 lucaruggier111@gmail.com
