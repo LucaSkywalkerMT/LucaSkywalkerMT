@@ -6,7 +6,9 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 
 ### ℹ Information
 - 📅 25/03/1998
+- 🇿🇦 +27  0605646187
 - 📞 +356 99669607
+-
 - 📧 lucaruggier111@gmail.com
 - 📱 LucaSkywalker#4894
 
