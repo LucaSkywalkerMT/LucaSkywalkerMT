@@ -1,7 +1,7 @@
 # Who is Luca Ruggier?
 
 I am Luca Ruggier,
-I am a 24 year old university student studying Computer Engineering at the University of Malta. I was born in South Africa and moved to Malta in 2017 and began studying. 
+I am 24 years old with a Computer Engineering Honours from the University of Malta. I was born in South Africa and moved to Malta in 2017. 
 I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT / BLE, RF, IR etc on chips such as ESP32 / ESP8266.
 
 ### ℹ Information
@@ -13,7 +13,7 @@ I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT 
 - 📱 LucaSkywalker#4134
 
 ### 📚 Education
-- University of Malta — Computer Engineering [Sep 2019 - Present]
+- University of Malta — Computer Engineering [Sep 2019 - June 2022]
 - University of Malta — Electrical Engineering [Sep 2018 - Jul 2019]
 - University of Malta — Science and ICT Foundation Year [Sep 2017 - Jul 2018]
 - St. Henry’s Marist College, South Africa — Matriculation [Jan 2012 - Dec 2016]
