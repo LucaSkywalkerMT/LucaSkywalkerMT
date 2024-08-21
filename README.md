@@ -1,16 +1,16 @@
 # Who is Luca Ruggier?
 
 I am Luca Ruggier,
-I am 24 years old with a Computer Engineering Honours from the University of Malta. I was born in South Africa and moved to Malta in 2017. 
-I thoroughly enjoy interfacing wireless communcation hardware, such as WiFi, BT / BLE, RF, IR etc on chips such as ESP32 / ESP8266.
+I am 26 years old with a Computer Engineering Honours from the University of Malta. I am currently based in Cape Town, South Africa.
+With a solid background in wireless communication and microelectronic systems, I strive to continuously expand my knowledge and skills. My passion for electronics, microcontrollers, and single-board computers (SBCs) emerged during high school and has driven me to primarily developing niche electronic systems that cannot be bought "off the shelf." 
+I am the Systems Lead and Hardware Developer for Airponix Ltd, an innovative AgriTech company solving food scarcity in regions where grow has previously not been viable. 
 
 ### ℹ Information
 - 📅 25/03/1998
-- 📞 +27  0605636187
-- 📞 +356 99669607
--
+- 📞 +44 7833603913
+- 📞 +27 0605636187
+- 📧 luca@airponix.com
 - 📧 lucaruggier111@gmail.com
-- 📱 LucaSkywalker#4134
 
 ### 📚 Education
 - University of Malta — Computer Engineering [Sep 2019 - June 2022]
